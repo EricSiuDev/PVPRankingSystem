@@ -1,0 +1,8 @@
+#-------------------------------------------------------
+# PVPRankingSystem Plugin Chinese Translation by EricSiu
+#-------------------------------------------------------
+
+msg-rank: '&b等級: '
+msg-kills: '&a擊殺數: '
+msg-deaths: '&c死亡數: '
+msg-killstreak: '&e連殺: '

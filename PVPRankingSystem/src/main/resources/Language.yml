@@ -1,0 +1,13 @@
+#-------------------------------------------------------
+# PVPRankingSystem Plugin Chinese Translation by EricSiu
+#-------------------------------------------------------
+
+msg-rank: '&b等級: '
+msg-kills: '&a擊殺數: '
+msg-deaths: '&c死亡數: '
+msg-killstreak: '&e連殺: '
+msg-sqlloading: '&b資料讀取中，請稍候...'
+msg-error: '&c資料讀取錯誤，請重試!'
+msg-rankuptitle: '&6恭喜你升階成 %rank% !'
+msg-rankupsubtitle: '&9祝你在Shinte FFA一路順利!'
+msg-rankupbroadcast: '&b恭喜玩家 &a %player% &b升到 &9 %rank% !'

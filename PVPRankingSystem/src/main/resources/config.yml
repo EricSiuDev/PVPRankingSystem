@@ -1,0 +1,27 @@
+#--------------------------------------------
+# PVPRankingSystem Plugin Config by EricSiu
+#--------------------------------------------
+
+#Databse Settings
+mysql-host: 127.0.0.1
+mysql-port: 3306
+mysql-database: database
+mysql-username: root
+mysql-password: 123
+
+#Rank Settings
+#The total number of ranks
+max-rank: 2
+
+#Customize ranks here
+#Note: This plugin will not work when min-kills of ranks not in ascending order
+1:
+  rank-name: '&a初心者'
+  min-kills: 0
+  min-kd: 0
+  broadcast: false
+2:
+  rank-name: '&b老手'
+  min-kills: 10
+  min-kd: 0
+  broadcast: true

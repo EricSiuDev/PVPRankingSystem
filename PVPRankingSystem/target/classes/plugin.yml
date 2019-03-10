@@ -1,0 +1,8 @@
+name: PVPRankingSystem
+version: 1.0
+main: me.eric.pvprankingsystem.Main
+softdepend: [PlaceholderAPI]
+commands:
+  rank:
+    description: Get the rank of a player
+    usage: /rank
